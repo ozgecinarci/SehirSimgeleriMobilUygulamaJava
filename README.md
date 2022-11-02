@@ -1,1 +1,1 @@
-# SehirSimgeleriMobilUygulamaJava
+# SehirSimgeleriUygulamaJava
